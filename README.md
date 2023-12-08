@@ -8,7 +8,7 @@ to find the most valuable closure in a graph.
 manual on how to operate the GUI **Rosinen_picken.jar** which makes it possible to manually run all components of the solution.
 The following shows the GUI:
 
-![](resources/rosinen_picken_gui.png)
+<img src="resources/rosinen_picken_gui.png" alt="Alt text" width="400">
 
 The jar **Rosinen_picken.jar** was compiled with Java compiler version 7 (51.0) and example graphs to run the 
 algorithm on can be found in the folder **graphs**.
