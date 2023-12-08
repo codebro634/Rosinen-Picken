@@ -1,0 +1,21 @@
+
+# Regel 1a: 1
+# Regel 1b: 0
+# Regel 2a: 0
+# Regel 2b: 0
+# Zyklen: 1
+# Redundante Kanten: 0
+# Teilgraphen: 1
+# Anzahl der Knoten in der Teilmenge
+8
+# Gesamtwert der Knoten
+4
+# Nummern der Knoten
+0
+1
+2
+3
+4
+5
+6
+7

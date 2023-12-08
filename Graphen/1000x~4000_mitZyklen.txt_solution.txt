@@ -1,0 +1,18 @@
+
+# Regel 1a: 5
+# Regel 1b: 13
+# Regel 2a: 49
+# Regel 2b: 45
+# Zyklen: 372
+# Redundante Kanten: 0
+# Teilgraphen: 1
+# Anzahl der Knoten in der Teilmenge
+5
+# Gesamtwert der Knoten
+93.0
+# Nummern der Knoten
+37
+177
+310
+317
+749
