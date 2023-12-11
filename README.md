@@ -1,5 +1,5 @@
 # Rosinen-Picken
-My submission for the exercise **Rosinen picken** of the 35th [**Bundeswettbewerb Informatik**](https://bwinf.de/bundeswettbewerb/).
+My submission for the exercise **Rosinen picken** of the 35th [**Bundeswettbewerb Informatik**](https://bwinf.de/bundeswettbewerb/) in 2016/17.
 
 The detailed task description can be found in **Aufgabenstellung.pdf** which in sum was to devise an efficient algorithm
 to find the most valuable closure in a graph. 
